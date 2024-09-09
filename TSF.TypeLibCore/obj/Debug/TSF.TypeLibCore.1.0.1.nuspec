@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TSF.TypeLibCore</id>
+    <version>1.0.1</version>
+    <authors>TSF.TypeLibCore</authors>
+    <owners>TSF.TypeLibCore</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Type Library of Text Services Framework for .NET Core</description>
+    <copyright>Copyright © Yohei Yukawa a.k.a. NyaRuRu 2013</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sasch\Documents\GitHub\TSF-TypeLib\TSF.TypeLibCore\bin\Debug\netstandard2.0\TSF.TypeLibCore.dll" target="lib\netstandard2.0\TSF.TypeLibCore.dll" />
+  </files>
+</package>

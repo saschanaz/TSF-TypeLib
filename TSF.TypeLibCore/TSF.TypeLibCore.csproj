@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Type Library of Text Services Framework for .NET Core</Description>
+    <Copyright>Copyright © Yohei Yukawa a.k.a. NyaRuRu 2013</Copyright>
+    <Company />
+    <Authors />
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
